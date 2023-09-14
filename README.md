@@ -38,9 +38,6 @@ Finding your way is a Python script that employs probabilistic tracking and path
 
 Contributions to this project are welcome! Feel free to submit issues, suggest improvements, or create pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
